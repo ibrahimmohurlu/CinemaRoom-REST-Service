@@ -2,7 +2,7 @@
 ## Scenario
 - In this application users can buy ticket based on row and column number.
 - Users can see available seats and total row and column number.
-- Users can return ticket with token.
+- Users can return a purchased ticket with it's token.
 - Owner of movie theater can see statistics about movie theater.
 
 ## End points
